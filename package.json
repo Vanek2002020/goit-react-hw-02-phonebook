@@ -2,7 +2,7 @@
     "name": "react-2-phonebook",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://vanek2002020.github.io/react-2-phonebook",
+    "homepage": "https://vanek2002020.github.io/goit-react-hw-02-phonebook",
     "dependencies": {
         "@testing-library/jest-dom": "^5.15.0",
         "@testing-library/react": "^11.2.7",
